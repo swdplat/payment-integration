@@ -9569,7 +9569,7 @@ label + .my-form-inputBtn-group {
 .paymentSub .payment-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 12px;
 }
 @media (max-width: 570px) {
   .paymentSub .payment-list {
